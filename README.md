@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" height="300" width="1600" src="https://github.com/pritam-git01/pritam-git01/blob/main/welcome-dark.png">
+<img align="center" alt="Coding" height="300" width="1600" src="https://github.com/pritam-git01/pritam-git01/blob/main/welcome-dark.svg">
 
 ![-----------------------------------------------------](https://github.com/pritam-git01/pritam-git01/blob/main/rainbow.png)
 
