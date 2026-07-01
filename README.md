@@ -49,7 +49,7 @@ Day-to-day I build full-stack web applications, integrate AI/LLM features into p
 
 <a href="https://www.linkedin.com/in/pritam-dev" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
 &nbsp;
-<a href="https://x.com/pritamdev_io" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/x.svg" alt="X" height="30" width="40" /></a>
+<a href="https://x.com/pritamdev_io" target="_blank" rel="noreferrer"><img align="center" src="https://www.google.com/s2/favicons?domain=x.com&sz=64" alt="X" height="30" width="40" /></a>
 &nbsp;
 <a href="mailto:pritamyadav.dev@gmail.com" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Email" height="30" width="40" /></a>
 
