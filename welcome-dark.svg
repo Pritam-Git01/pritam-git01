@@ -1,0 +1,30 @@
+<svg width="1600" height="300" viewBox="0 0 1600 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="300" fill="#0d1117"/>
+
+  <g opacity="0.08" fill="none" stroke="#58a6ff" stroke-width="1">
+    <line x1="0" y1="60" x2="1600" y2="60"/>
+    <line x1="0" y1="120" x2="1600" y2="120"/>
+    <line x1="0" y1="180" x2="1600" y2="180"/>
+    <line x1="0" y1="240" x2="1600" y2="240"/>
+  </g>
+
+  <g font-family="Menlo, Consolas, monospace" font-size="20" fill="#8b949e" opacity="0.55">
+    <text x="60" y="55">const developer = {</text>
+    <text x="90" y="82">name: "Pritam Kumar Yadav",</text>
+    <text x="90" y="109">role: "Full-Stack Developer &amp; AI Engineer",</text>
+    <text x="90" y="136">base: "Bengaluru, India",</text>
+    <text x="90" y="163">stack: ["React", "Python", "Node.js", "TypeScript", "LLMs", "Jupyter", "LangGraph", "Kaggle"]</text>
+    <text x="60" y="190">};</text>
+  </g>
+
+  <circle cx="1420" cy="80" r="4" fill="#f85149"/>
+  <circle cx="1442" cy="80" r="4" fill="#e3b341"/>
+  <circle cx="1464" cy="80" r="4" fill="#3fb950"/>
+
+  <text x="800" y="255" font-family="Menlo, Consolas, monospace" font-size="34" font-weight="600" fill="#e6edf3" text-anchor="middle">
+    Hi, I'm Pritam <tspan fill="#58a6ff">&lt;/&gt;</tspan>
+  </text>
+  <text x="800" y="285" font-family="Menlo, Consolas, monospace" font-size="16" fill="#8b949e" text-anchor="middle">
+    Building AI-powered products, one commit at a time
+  </text>
+</svg>
