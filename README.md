@@ -8,7 +8,7 @@ Full Stack Developer & Software Engineer based in Bengaluru, India. I work mostl
 
 Day-to-day I build full-stack web applications, integrate AI/LLM features into products, and design scalable systems - it's a core part of what I do both professionally and in my own ventures.
 
-2.11+ years of experience across React, Node.js, Python, TypeScript, MongoDB, PostgreSQL, AWS, Docker, and Kubernetes. Available for full-time, contract, and freelance opportunities.
+3+ years of experience across React, Node.js, Python, TypeScript, MongoDB, PostgreSQL, AWS, Docker, and Kubernetes. Available for full-time, contract, and freelance opportunities.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritam-git01&label=Profile%20views&color=0e75b6&style=flat" alt="pritam-git01" /> </p>
 
