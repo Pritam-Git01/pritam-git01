@@ -4,7 +4,7 @@
 
 ## About me
 
-Full Stack Developer & AI Engineer based in Bengaluru, India. I work mostly with React, Next.js, Node.js, TypeScript, and Python across web and cloud projects. Currently focused on building AI-powered products, RAG systems, and multi-agent conversational AI.
+Full Stack Developer & AI Engineer based in Bengaluru, India. I work mostly with Python, LLMs, LangGraph, React, Next.js, Node.js, and TypeScript across AI, web and cloud projects. Currently focused on building AI-powered products, RAG systems, and multi-agent conversational AI.
 
 Day-to-day I build full-stack web applications, integrate AI/LLM features into products, and design scalable systems - it's a core part of what I do both professionally and in my own ventures.
 
